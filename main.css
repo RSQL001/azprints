@@ -39,7 +39,7 @@ span {
 }
 
 .header {
-    background-image: url('/images/layers-green-papers-creating-abstract-arrows.jpg');
+    background-image: url('./images/layers-green-papers-creating-abstract-arrows.jpg');
     height: 80vh;
     width: 100%;
     background-position: top;
