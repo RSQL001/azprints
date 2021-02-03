@@ -1,0 +1,280 @@
+body {
+    margin: 0em;
+    padding: 0em;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+
+.btn {
+    margin-top: 20px;
+    padding: 15px 4em;
+    border: 2px solid #000;
+    background-color: transparent;
+    font-family: Oswald, sans-serif;
+    color: #000;
+    font-size: 17px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    color: black;
+    font-weight: lighter;
+}
+
+span {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.logo img {
+    float: left;
+    width: 40%;
+}
+
+.header {
+    background-image: url('/images/layers-green-papers-creating-abstract-arrows.jpg');
+    height: 80vh;
+    width: 100%;
+    background-position: top;
+    background-size: cover;
+}
+
+.card {
+    margin: 0.8em 1.2em;
+}
+
+.col.drop {
+    text-align: center;
+}
+
+.drop.img {
+    text-align: center;
+    font-size: 60px;
+}
+
+.section-1 {
+    background-color: #8080800f;
+    padding: 3em 0em;
+}
+
+.header-box {
+    padding: 3em 0em;
+}
+
+.header-box h1 {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 3.2em;
+}
+
+.header-box p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    color: black;
+    font-weight: lighter;
+}
+
+#top img {
+    width:25%;
+}
+
+#top .row {
+    padding: 2em 0em;
+}
+.drop p {
+    font-size: 1em;
+}
+
+.drop h6 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    color: black;
+    font-weight: 400;
+    padding-top: 1em;
+}
+
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+p.card-text {
+    font-size: 1em;
+}
+
+/*Section Two - Clients*/
+
+.section-2 {
+    text-align: center;
+    padding: 2em 0;
+}
+
+.section-2 h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.section-2 h3 {
+    padding-top: 1.5em;
+}
+
+.section-2 p {
+    padding-bottom: 3em;
+}
+
+.card.portfolio {
+    border: none;
+    flex-direction: column-reverse;
+}
+
+#sahad.col.card.portfolio img {
+    width:70%;
+}
+
+#prints.col.card.portfolio img {
+    padding-bottom: 1em;
+}
+
+/*Section Three - Order*/
+
+.order h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+.section-3.order {
+    background-color: #8080800f;
+    padding: 3em 0;
+}
+
+.text-box {
+    text-align: center;
+    padding: 3em 0em;
+}
+
+.sample-pack {
+    position: relative;
+    background-image: url('./images/sample-pack.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+
+/*Section Four*/
+
+.about h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0.8em 0em;
+}
+
+
+.about.section-e {
+    position: relative;
+    background-image: url('./images/values.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    color: white;
+}
+
+
+#about.overlay.section-e {
+    position: absolute;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.84);
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+}
+
+.far {
+    color: #77C043;
+    font-size: 20px;
+}
+
+.villain-text.section-e {
+    position: absolute;
+    padding: 1em 16em;
+}
+
+.villain-text.section-e p {
+    color: white;
+}
+
+
+.joker {
+    display: block;
+    font-family: 'Montserrat','Calibri';
+}
+
+.joker ul {
+    display: flex;
+    list-style: none;
+}
+
+.freeze {
+    display: block;
+    font-family: 'Montserrat','Calibri';
+}
+
+.freeze ul {
+    display: flex;
+    list-style: none;
+}
+
+.hero-text.section-e h1 {
+    color: white;
+    margin: -8em auto;
+    position: absolute;
+    z-index: 100;
+}
+
+.hero-text.section-e p {
+    color: white;
+    position: relative;
+    z-index: 100;
+}
+
+#about-a.row {
+    color: none;
+    margin: 2em auto;
+    position: absolute;
+    z-index: 100;
+}
+
+#about-b.row {
+    color: none;
+    margin: 4em auto;
+    position: absolute;
+    z-index: 100;
+}
+
+/*Section Five*/
+
+.section-5 {
+    text-align: center;
+    padding: 3em 0;
+}
+
+.card-img {
+    width:60%!important;
+}
+
